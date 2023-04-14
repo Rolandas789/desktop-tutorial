@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mano puslapis</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+<h1>2 weeks friday challange!</h1>
+<div class="image-container">
+  <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/cc-apple-pay-brands.svg" alt="discover">
+  <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/university-solid.svg" alt="design">
+  <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/users-solid.svg" alt="develop">
+  <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/random-solid.svg" alt="deploy">
+</div>
+
+<div class="container">
+  <div class="image">
+    <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/cc-apple-pay-brands.svg">
+    <span>Discover</span>
+    <span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut facilis vitae eos harum tempora at, eum sed soluta ratione amet illo nihil illum natus! Saepe sapiente voluptas nemo deleniti quos.</span>
+  </div>
+  <div class="image">
+    <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/university-solid.svg">
+    <span>Design</span>
+    <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, non magnam? Quo animi eaque assumenda nam possimus provident ad. Nemo molestiae id aut illum error veritatis vel, doloribus temporibus sunt.</span>
+  </div>
+  <div class="image">
+    <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/users-solid.svg">
+    <span>Develop</span>
+    <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, voluptatum velit saepe, excepturi voluptates magnam veniam explicabo consectetur tempore provident adipisci quasi distinctio nobis neque. Deleniti unde laborum quaerat at!</span>
+  </div>
+  <div class="image">
+    <img src="file:///C:/Users/Meila/Desktop/Praktinis%20darbas/random-solid.svg">
+    <span>Deploy</span>
+    <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima commodi repellat vitae voluptatem sit magnam laborum laboriosam, modi consequuntur sed eaque quaerat, exercitationem nobis accusamus, doloremque ipsa aut enim magni?</span>
+  </div>
+</div>
+
+<p></p>
+</body>
+</html>
