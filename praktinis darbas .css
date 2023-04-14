@@ -1,0 +1,16 @@
+.image-container {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .image-container img {
+    margin-right: 10px;
+  }
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .image {
+    margin-left: 10px;
+  }
